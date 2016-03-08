@@ -34,3 +34,6 @@
 #Objects folder
 Code/Objects/
 
+#uvguix
+*.uvguix*
+
