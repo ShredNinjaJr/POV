@@ -446,6 +446,21 @@
               <FileType>5</FileType>
               <FilePath>.\src\pin_label.h</FilePath>
             </File>
+            <File>
+              <FileName>font_table.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\src\font_table.h</FilePath>
+            </File>
+            <File>
+              <FileName>Retarget.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Retarget.c</FilePath>
+            </File>
+            <File>
+              <FileName>Serial.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\src\Serial.c</FilePath>
+            </File>
           </Files>
         </Group>
       </Groups>
