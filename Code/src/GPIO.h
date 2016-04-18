@@ -68,8 +68,8 @@ void GPIO_Write(GPIO_pin pin, uint8_t val)
 	}
 }
 
-/* GPIO_Write
- * Writes a Digital HIGH or LOW to the specified GPIO Pin
+/* GPIO_Read
+ * Reads a Digital HIGH or LOW to the specified GPIO Pin
  * Inputs: pin -- Pin to change output on
  * Return Value: HIGH or LOW based on Pin reading
  */
